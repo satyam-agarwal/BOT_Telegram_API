@@ -13,7 +13,7 @@ public class DobodoBot extends org.telegram.telegrambots.bots.TelegramLongPollin
 
     @Override
     public String getBotToken() {
-        return "1608874121:AAEB21mXJ-gJ42UtWrxS0pxZHWCS_L24Cvw";
+        return "Token";
     }
 
     @Override
